@@ -17,6 +17,6 @@
 
 ![cherry](https://github.com/kysn/CherryGirlGame/blob/main/media/cherry7.gif 'gameplay')
 ![cherry](https://github.com/kysn/CherryGirlGame/blob/main/media/cherry9.gif 'gameplay')
-  #### `When you get this magical Cherry Blossom potion, your hair turns to green,congrats now you have double dash powers!`
+  #### `When you get this magical Cherry Blossom potion, your hair turns to green,congrats now you have double dash power!`
 
 ![cherry](https://github.com/kysn/CherryGirlGame/blob/main/media/cherry8.gif 'gameplay')
